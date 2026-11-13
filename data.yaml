@@ -1,0 +1,6 @@
+path: 'E:\python project\thi giac pt vat can\dataset'
+train: images/train
+val: images/val
+
+names:
+  0: vat_can
